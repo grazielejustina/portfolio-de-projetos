@@ -1,8 +1,15 @@
-<h1 align="center">Graziele Aparecida de Godoy Justina</h1>
-<p align="center">
-  <img src="1718327358821.jpeg" >
-</p>
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio de Graziele Aparecida de Godoy Justina</title>
+</head>
+<body>
+    <h1 align="center">Graziele Aparecida de Godoy Justina</h1>
+    <p align="center">
+        <img src="1718327358821.jpeg" alt="Foto de Graziele Aparecida de Godoy Justina">
+    </p>
 
 # Bem vindos ao meu portfólio de projetos !
 
