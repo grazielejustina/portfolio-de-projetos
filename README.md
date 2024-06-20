@@ -6,11 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Graziele Aparecida de Godoy Justina</title>
 </head>
-<body>
-    <h1>Graziele Aparecida de Godoy Justina</h1>
-    <p>Bem vindo ao meu portfólio de Analista de Dados !</p>
-</body>
-</html>
 
 # Bem vindos ao meu portfóio de projetos !
 
