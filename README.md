@@ -15,7 +15,6 @@ Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. 
 * **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps.
 * **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação e DataOps.
 
- 
 ## Projetos desenvolvidos:
 
 ### Sales Forecast
