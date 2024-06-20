@@ -11,9 +11,10 @@ Here you will find my professional experiences, skills, tools and projects invol
 As the projects below demonstrate, I am able to implement a complete Data Science project (“end-to-end”), from obtaining business requirements to publishing it in the cloud, including creating tools to access the Machine Learning Models for non-tech people.
 
 ## Skills:
-* **Programming Languages:** Python básico e SQL intermediário
-* **Databases:** SQL (MySQL, PostgreSQL, SQL Server).
-* **Data visualization:** Linguagem SQL.
+* **Linguagens de programação:** Python básico e SQL intermediário
+* **Bancos de dados::** SQL (MySQL, PostgreSQL, SQL Server).
+* **Visualização de dados:** Linguagem SQL, Power BI intermediário.
+* **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação e DataOps.  
 * **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação e DataOps.
  
 
