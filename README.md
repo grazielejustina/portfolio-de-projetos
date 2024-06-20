@@ -1,11 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Página de Graziele Aparecida de Godoy Justina</title>
+</head>
 <body>
-        <p align="center">
-        <h1>Graziele Aparecida de Godoy Justina</h1>
+    <h1 align="center">Graziele Aparecida de Godoy Justina</h1>
+    <p align="center">
+        <img src="1718327358821.jpeg" alt="Imagem de Graziele Aparecida de Godoy Justina">
+    </p>
 </body>
-
-<p align="center">
-  <img src="1718327358821.jpeg" >
-</p>
+</html>
 
 # Bem vindos ao meu portfólio de projetos !
 
