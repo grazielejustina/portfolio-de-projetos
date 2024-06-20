@@ -41,7 +41,7 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
   
 Proposto como solução do Desafio 4- Assistência Humanitária com intuito de propor soluções para crise humanitária que está sendo enfrentada pelo Rio Grande do Sul na Maratona Tech pelo RS. Todos os participantes tiveram o prazo de 48 horas para desenvolver e apresentar sua solução.
 
-**Projeto:**
+**Projeto**: [**Link**] (https://github.com/grazielejustina/Projeto-Ajuda-Pet-RS)
 
 ### Projeto de Análise de Marketing (Concluído)
 * **Desafio:** Analisar os dados de pesquisa de leads de possíveis alunos
