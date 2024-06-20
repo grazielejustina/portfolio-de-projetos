@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Graziele Aparecida de Godoy Justina</title>
-</head>
+<body>
+    <h1>Nome da Página</h1>
+    <p>Bem-vindo ao meu projeto no GitHub!</p>
+</body>
+</html>
 
 # Bem vindos ao meu portfóio de projetos !
 
