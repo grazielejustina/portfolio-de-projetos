@@ -17,11 +17,8 @@ Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. 
 
 ## Projetos desenvolvidos:
 
-### Sales Forecast
-* **Business Problem:** The CFO of a drugstore chain wanted a sales forecast for each individual store for the next 06 weeks.
-* **Solution Strategy:** Following the steps of the CRISP-DM framework, first I performed data analysis to extract insights and validate business hypotheses. Then, I performed the selection and validation of Machine Learning algorithms, choosing XGBoost for the balance between computational performance and accuracy. Finally, I deployed the application in the cloud (Heroku). Access to forecasts is made possible through a Telegram bot created by me.
-* **Business Result:** The choosen model presented an absolute mean percentage error (MAPE) of 15%. The expected revenue was in the range of R$ 275.15 - 277.46 (millions R$).Information about the drugstore sales forecasting was shown on a [Telegram Bot](https://t.me/rossmansales_bot).
-* **Project:** [**Sales Forecast Drugstores**](https://github.com/joaomj/rossman_main).
+### Hackathon- 1ª Edição
+* **Desafio 1:** Maratona de programação para desensolver uma solução para o desafio "Apresente uma solução para otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e de dados pessoais" onde atuarei como Tech Lead dentro da equipe. Epatas do projeto: Justificativa da solução (discovery), protótipo da solução, demonstração do funcionamento da solução, solução final completa contendo protótipo, justificativa para a solução e um vídeo de 3 a 5 minutos (pitch).
 
 ---
 
