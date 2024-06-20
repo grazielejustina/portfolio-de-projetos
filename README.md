@@ -57,5 +57,5 @@ Devido a LGPD, os dados da empresa foram anonimizados para garantir que os aluno
 ### Contatos:
 
 * WhatsApp: (14) 99722-6510
-* Linkedin: https://www.linkedin.com/in/grazielejustina/
+* Linkedin: [**Link**](https://www.linkedin.com/in/grazielejustina/)
 * Email: grazielejustina@hotmail.com
