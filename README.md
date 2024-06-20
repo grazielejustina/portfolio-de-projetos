@@ -12,7 +12,7 @@ As the projects below demonstrate, I am able to implement a complete Data Scienc
 
 ## Skills:
 * **Programming Languages:** Python básico e SQL intermediário
-* **Databases:** SQL (SQLite, PostgreSQL).
+* **Databases:** SQL (MySQL, PostgreSQL, SQL Server).
 * **Data visualization:** Python libraries (matplotlib, seaborn, folio), Streamlit, Telegram bots.
 * **Descriptive Statistics:** Central Tendency, Dispersion, kurtosis, density.
 * **ML Algorithms:** Supervised Learning (Regression, Classification and Learn to Rank). Linear Regression, Logistic Regression, Lasso Regression, Random Forest, XGBoost, ExtraTrees, K-Nearest-Neighbours (KNN).
