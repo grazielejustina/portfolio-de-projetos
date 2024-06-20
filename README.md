@@ -2,7 +2,7 @@
   <img src="1718327358821.jpeg" >
 </p>
 
-# Hello everyone! It's a pleasure to have you here.
+# Bem vindo ao meu portfólio de Analista de Dados.
 
 Here you will find my professional experiences, skills, tools and projects involving Data Science.
 
@@ -11,7 +11,7 @@ Here you will find my professional experiences, skills, tools and projects invol
 As the projects below demonstrate, I am able to implement a complete Data Science project (“end-to-end”), from obtaining business requirements to publishing it in the cloud, including creating tools to access the Machine Learning Models for non-tech people.
 
 ## Skills:
-* **Programming Languages:** Python.
+* **Programming Languages:** Python básico e SQL intermediário
 * **Databases:** SQL (SQLite, PostgreSQL).
 * **Data visualization:** Python libraries (matplotlib, seaborn, folio), Streamlit, Telegram bots.
 * **Descriptive Statistics:** Central Tendency, Dispersion, kurtosis, density.
