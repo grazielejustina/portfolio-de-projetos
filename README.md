@@ -10,16 +10,15 @@ Here you will find my professional experiences, skills, tools and projects invol
 
 As the projects below demonstrate, I am able to implement a complete Data Science project (“end-to-end”), from obtaining business requirements to publishing it in the cloud, including creating tools to access the Machine Learning Models for non-tech people.
 
-## Skills:
+## Habilidades:
 * **Linguagens de programação:** Python básico, SQL intermediário.
 * **Bancos de dados:** SQL (MySQL, PostgreSQL, SQL Server).
 * **Visualização de dados:** Linguagem SQL, Power BI intermediário.
-* **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, DataOps.  
+* **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps.
 * **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação e DataOps.
+
  
-
-
-## Data Science Projects:
+## Projetos desenvolvidos:
 
 ### Sales Forecast
 * **Business Problem:** The CFO of a drugstore chain wanted a sales forecast for each individual store for the next 06 weeks.
@@ -28,26 +27,8 @@ As the projects below demonstrate, I am able to implement a complete Data Scienc
 * **Project:** [**Sales Forecast Drugstores**](https://github.com/joaomj/rossman_main).
 
 ---
-### Marketing Budget Optimization
 
-* **Business Problem:** An insurance company wanted to sell another insurance policy (vehicle insurance) to its clients. However, due to the limited amount of its marketing budget and the size of its customer base, the company wanted to know which customers should be given priority in receiving a cross-sell proposal.
-* **Solution:** After understanding the problem (optimizing the use of the marketing budget), the company's data science team adopted a strategy of classification: customers will be classified according to the probability of purchasing the new insurance. This probability will be provided by a Machine Learning algorithm. With the clients dataset ordered by purchase probability, the marketing team will be able to focus its efforts only on the customers that are at the top of the sorted dataset ( = greater purchase probability).
-* **Business Result:** with the Machine Learning model adopted, the marketing team was able to approach 90% of interested customers by covering only 40% of the clients database. Assuming a cost per call of $10.00 and considering the total number of customers (381,109), the company achieved savings of $2,286,660 on phone calls costs (60% cost reduction).
-* **Project**: [**Marketing Optimization**](https://github.com/joaomj/health_insurance_cross_sell)
+### Contatos:
 
----
-### Exploratory Data Analysis of Real Estate Data
-
-* **Business Problem:** The CEO of a real estate company located in King County wanted to know which properties available for sale would be a good business opportunity.
-* **Solution:** The data team's approach consisted of analyzing all properties in the county available for sale and finding those priced below market price ( = median price per m2 in each zip code). We would recommend buying the property if it is below market price and in good condition. Then the property would be resold at market prices.
-* **Business Result:** Thanks to this simple data analysis, the company was able to resell properties for up to 30x the purchase price.
-* **Project**: [**Exploratory Data Analysis**](https://github.com/joaomj/House-Rocket-Analytics)
-
----
-
-### Curiosities about me:
-
-* **Areas of Interest:** Data Science, MLOps, Financial Analysis (stocks) and History :sunglasses: .
-* Bachelor degree in Computer Science through Sao Paulo State University (UNESP).
-
-[![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomj&show_icons=true&theme=radical)
+* WhatsApp: (14) 99722-6510
+* Email: grazielejustina@hotmail.com
