@@ -1,8 +1,15 @@
-<p align="center">
-  <img src="1718327358821.jpeg" >
-</p>
-
-# Bem vindo ao meu portfólio de Analista de Dados 🎯
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graziele Aparecida de Godoy Justina</title>
+</head>
+<body>
+    <h1>Graziele Aparecida de Godoy Justina</h1>
+    <p>Bem vindo ao meu portfólio de Analista de Dados !</p>
+</body>
+</html>
 
 Sou Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para suporte à tomada de decisão. Também possuo sólida experiência em vendas no e-commerce, liderança, trabalho em equipe, gestão de projetos e controle financeiro.
 
