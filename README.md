@@ -21,7 +21,8 @@ Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. 
 * **Desafio 1:** Maratona de programação para desensolver uma solução para o desafio "Apresente uma solução para otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e de dados pessoais" onde atuarei como Tech Lead dentro da equipe. Epatas do projeto: Justificativa da solução (discovery), protótipo da solução, demonstração do funcionamento da solução, solução final completa contendo protótipo, justificativa para a solução e um vídeo de 3 a 5 minutos (pitch).
 
 ### Projeto Otimização de Estoque e Redução de Custos (em desenvolvimento)
-* **Desafio:** Contexto: A empresa enfrenta desafios na gestão de estoque, incluindo excesso de produtos perecíveis que causam desperdícios e falta de produtos que levam à perda de vendas. Este projeto busca utilizar a análise de dados para otimizar o estoque e reduzir os custos operacionais.
+* **Desafio:** Otimar o estoque e reduzir os custos de uma rede de supermercados
+* Contexto: A empresa enfrenta desafios na gestão de estoque, incluindo excesso de produtos perecíveis que causam desperdícios e falta de produtos que levam à perda de vendas. Este projeto busca utilizar a análise de dados para otimizar o estoque e reduzir os custos operacionais.
 Objetivos do Projeto: 
 1. Analisar Dados de Estoque e Vendas;
 2. Prever a Demanda Futura;
@@ -30,16 +31,16 @@ Objetivos do Projeto:
 Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
 
 ### Projeto Ajuda Pet RS (Concluído)
-* **Desafio:** Ajuda humanitária
+* **Desafio:** Ajuda humanitária no Rio Grande do Sul
 * Proposto como solução do Desafio 4- Assistência Humanitária com intuito de propor soluções para crise humanitária que está sendo enfrentada pelo Rio Grande do Sul na Maratona Tech pelo RS. Todos os participantes tiveram o prazo de 48 horas para desenvolver e apresentar sua solução.
-* **Projeto:**
+**Projeto:**
 
 ### Projeto de Análise de Marketing (Concluído)
-* **Desafio:** Analisar os dados de pesquisa de leads
+* **Desafio:** Analisar os dados de pesquisa de leads de possíveis alunos 
 Com a análise dos dados, foi possível fazer um levantamento de leads dos alunos que tem interesse de se matricular em uma escola de tecnologia específica. 
 Com a analise de dados, foi possível analisar o perfil, os interesses e o conhecimento de ferramentas de tecnologia de cada aluno.
 Devido a LGPD, os dados da empresa foram anonimizados para garantir que os alunos não pudessem ser identificados.
-* **Projeto:**
+**Projeto:**
 
 ---
 
