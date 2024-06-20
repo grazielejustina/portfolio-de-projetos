@@ -1,12 +1,6 @@
-<!DOCTYPE HTML>
-
-<html>
-	<head>
-		<title>Portfólio de Willian Ribeiro</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
+<p align="center">
+  <img src="1718327358821.jpeg" >
+</p>
 
 # Bem vindo ao meu portfólio de Analista de Dados 🎯
 
