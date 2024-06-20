@@ -14,7 +14,7 @@ As the projects below demonstrate, I am able to implement a complete Data Scienc
 * **Linguagens de programação:** Python básico, SQL intermediário.
 * **Bancos de dados:** SQL (MySQL, PostgreSQL, SQL Server).
 * **Visualização de dados:** Linguagem SQL, Power BI intermediário.
-* **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação e DataOps.  
+* **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, DataOps.  
 * **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação e DataOps.
  
 
