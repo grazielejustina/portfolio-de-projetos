@@ -50,7 +50,7 @@ Com a análise dos dados, foi possível fazer um levantamento de leads dos aluno
 Com a analise de dados, foi possível analisar o perfil, os interesses e o conhecimento de ferramentas de tecnologia de cada aluno.
 Devido a LGPD, os dados da empresa foram anonimizados para garantir que os alunos não pudessem ser identificados.
 
-* **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-de-An-lise-de-Marketing))
+* **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-de-An-lise-de-Marketing)
 
 ---
 
