@@ -13,16 +13,9 @@ As the projects below demonstrate, I am able to implement a complete Data Scienc
 ## Skills:
 * **Programming Languages:** Python básico e SQL intermediário
 * **Databases:** SQL (MySQL, PostgreSQL, SQL Server).
-* **Data visualization:** Python libraries (matplotlib, seaborn, folio), Streamlit, Telegram bots.
-* **Descriptive Statistics:** Central Tendency, Dispersion, kurtosis, density.
-* **ML Algorithms:** Supervised Learning (Regression, Classification and Learn to Rank). Linear Regression, Logistic Regression, Lasso Regression, Random Forest, XGBoost, ExtraTrees, K-Nearest-Neighbours (KNN).
-* **Data Balancing:** Attribute Selection and Dimensionality Reduction techniques.
-* **ML Performance Metrics:** RMSE, MAE, MAPE, Confusion Matrix, Precision, Recall, Accumulative, ROC and AUC curves.
-* **ML Libraries (Python):** sklearn, scipy, pycaret, mlflow.
-* **Version Control:** Git (code versioning), and DVC (data versioning).
-* **APIs:** Flask, Streamlit, Amazon API Gateway.
-* **MLOps:** AWS tools (S3, EC2, Lambda), Heroku cloud, DVC, Databricks.
-* **Big Data:** PySpark.   
+* **Data visualization:** Linguagem SQL.
+* **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação e DataOps.
+ 
 
 
 ## Data Science Projects:
