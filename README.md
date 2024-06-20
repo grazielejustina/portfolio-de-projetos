@@ -4,11 +4,9 @@
 
 # Bem vindo ao meu portfólio de Analista de Dados.
 
-Here you will find my professional experiences, skills, tools and projects involving Data Science.
+Sou Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para suporte à tomada de decisão. Também possuo sólida experiência em vendas no e-commerce, liderança, trabalho em equipe, gestão de projetos e controle financeiro.
 
-(*take a look at my Data Science [https://grazielejustina.github.io/portfolio-de-projetos*)
-
-As the projects below demonstrate, I am able to implement a complete Data Science project (“end-to-end”), from obtaining business requirements to publishing it in the cloud, including creating tools to access the Machine Learning Models for non-tech people.
+Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. Estou em busca de uma oportunidade de trabalho onde possa demonstrar minha capacidade, potencial e competência, contribuindo para gerar resultados e crescer junto à empresa. Minhas áreas de interesse são Dados, Planejamento e MIS.
 
 ## Habilidades:
 * **Linguagens de programação:** Python básico, SQL intermediário.
