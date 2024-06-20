@@ -40,6 +40,7 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
 * **Desafio:** Ajuda humanitária para o Rio Grande do Sul
   
 Proposto como solução do Desafio 4- Assistência Humanitária com intuito de propor soluções para crise humanitária que está sendo enfrentada pelo Rio Grande do Sul na Maratona Tech pelo RS. Todos os participantes tiveram o prazo de 48 horas para desenvolver e apresentar sua solução.
+
 **Projeto:**
 
 ### Projeto de Análise de Marketing (Concluído)
@@ -48,6 +49,7 @@ Proposto como solução do Desafio 4- Assistência Humanitária com intuito de p
 Com a análise dos dados, foi possível fazer um levantamento de leads dos alunos que tem interesse de se matricular em uma escola de tecnologia específica. 
 Com a analise de dados, foi possível analisar o perfil, os interesses e o conhecimento de ferramentas de tecnologia de cada aluno.
 Devido a LGPD, os dados da empresa foram anonimizados para garantir que os alunos não pudessem ser identificados.
+
 **Projeto:**
 
 ---
