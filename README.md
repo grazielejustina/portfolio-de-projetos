@@ -3,6 +3,7 @@
   <img src="1718327358821.jpeg" >
 </p>
 
+
 # Bem vindos ao meu portfólio de projetos !
 
 Sou Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para suporte à tomada de decisão. Também possuo sólida experiência em vendas no e-commerce, liderança, trabalho em equipe, gestão de projetos e controle financeiro.
