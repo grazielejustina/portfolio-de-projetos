@@ -31,4 +31,5 @@ As the projects below demonstrate, I am able to implement a complete Data Scienc
 ### Contatos:
 
 * WhatsApp: (14) 99722-6510
+* Linkedin: https://www.linkedin.com/in/grazielejustina/
 * Email: grazielejustina@hotmail.com
