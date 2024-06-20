@@ -2,7 +2,6 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-        <title>Página de Graziele Aparecida de Godoy Justina</title>
 </head>
 <body>
     <h1 align="center">Graziele Aparecida de Godoy Justina</h1>
