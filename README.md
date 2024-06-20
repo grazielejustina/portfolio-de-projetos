@@ -7,9 +7,9 @@
 </head>
 <body>
     <h1>Graziele Aparecida de Godoy Justina</h1>
-    <p>Bem-vindo ao meu projeto no GitHub!</p>
+    <p>Bem-vindo ao meu potfólio de projetos!</p>
     <p align="center">
-        <img src="datasciencebannernew.jpg" alt="Data Science Banner">
+        <img src="1718327358821.jpeg" 
     </p>
 </body>
 </html>
