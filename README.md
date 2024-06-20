@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Graziele Aparecida de Godoy Justina</title>
-</head>
+    </head>
 <body>
     <h1>Graziele Aparecida de Godoy Justina</h1>
     <p>Bem-vindo ao meu potfólio de projetos!</p>
