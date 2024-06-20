@@ -1,7 +1,7 @@
-    <h1 align="center">Graziele Aparecida de Godoy Justina</h1>
-    <p align="center">
-        <img src="1718327358821.jpeg" alt="Foto de Graziele Aparecida de Godoy Justina">
-    </p>
+<h1 align="center">Graziele Aparecida de Godoy Justina</h1>
+<p align="center">
+  <img src="1718327358821.jpeg" >
+</p>
 
 # Bem vindos ao meu portfólio de projetos !
 
