@@ -4,7 +4,6 @@
     <h1>Nome da Página</h1>
     <p>Bem-vindo ao meu projeto no GitHub!</p>
 </body>
-</html>
 
 # Bem vindos ao meu portfóio de projetos !
 
