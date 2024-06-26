@@ -25,6 +25,7 @@ Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. 
 ### Hackathon- 1ª Edição (em desenvolvimento)
 * **Desafio 1:** Apresente uma solução para otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e de dados pessoais
 Maratona de programação para desensolver uma solução para o desafio "Apresente uma solução para otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e de dados pessoais" onde atuarei como Tech Lead dentro da equipe. Epatas do projeto: Justificativa da solução (discovery), protótipo da solução, demonstração do funcionamento da solução, solução final completa contendo protótipo, justificativa para a solução e um vídeo de 3 a 5 minutos (pitch).
+* **Competências adquiridas**: Gestão de projetos, Metodologias Ágeis, Desenvolvimento de liderança, Gestão de prazos, Trabalho em equipe
 
 ### Projeto Otimização de Estoque e Redução de Custos (em desenvolvimento)
 * **Desafio:** Otimizar o estoque e reduzir os custos de uma rede de supermercados
@@ -36,6 +37,7 @@ Objetivos do Projeto:
 3. Reduzir Desperdícios e Evitar Faltas de Produtos;
 4. Melhorar a Eficiência Operacional e Reduzir Custos;
 Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
+* **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Metodologia ágeis
 
 ### Projeto Ajuda Pet RS (Concluído)
 * **Desafio:** Ajuda humanitária para o Rio Grande do Sul
@@ -43,6 +45,7 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
 Proposto como solução do Desafio 4- Assistência Humanitária com intuito de propor soluções para crise humanitária que está sendo enfrentada pelo Rio Grande do Sul na Maratona Tech pelo RS. Todos os participantes tiveram o prazo de 48 horas para desenvolver e apresentar sua solução.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Ajuda-Pet-RS)
+* * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Mapeamento de necessidades
 
 ### Projeto de Análise de Marketing (Concluído)
 * **Desafio:** Analisar os dados de pesquisa de leads de possíveis alunos
@@ -52,6 +55,7 @@ Com a analise de dados, foi possível analisar o perfil, os interesses e o conhe
 Devido a LGPD, os dados da empresa foram anonimizados para garantir que os alunos não pudessem ser identificados.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-de-An-lise-de-Marketing)
+* * * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, ETL, Gestão de projetos
 
 ---
 
