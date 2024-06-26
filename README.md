@@ -45,7 +45,7 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
 Proposto como solução do Desafio 4- Assistência Humanitária com intuito de propor soluções para crise humanitária que está sendo enfrentada pelo Rio Grande do Sul na Maratona Tech pelo RS. Todos os participantes tiveram o prazo de 48 horas para desenvolver e apresentar sua solução.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Ajuda-Pet-RS)
-* * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Mapeamento de necessidades
+* **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Mapeamento de necessidades
 
 ### Projeto de Análise de Marketing (Concluído)
 * **Desafio:** Analisar os dados de pesquisa de leads de possíveis alunos
@@ -55,7 +55,7 @@ Com a analise de dados, foi possível analisar o perfil, os interesses e o conhe
 Devido a LGPD, os dados da empresa foram anonimizados para garantir que os alunos não pudessem ser identificados.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-de-An-lise-de-Marketing)
-* * * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, ETL, Gestão de projetos
+* **Competências adquiridas**: Análise de dados, Power BI, Prototipação, ETL, Gestão de projetos
 
 ---
 
