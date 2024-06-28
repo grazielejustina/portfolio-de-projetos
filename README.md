@@ -7,7 +7,7 @@
 
 Sou Analista de dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para suporte à tomada de decisão. Também possuo sólida experiência em vendas no e-commerce, liderança, trabalho em equipe, gestão de projetos e planejamentos.
 
-Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. Estou em busca de uma oportunidade de trabalho onde possa demonstrar minha capacidade, potencial e competência, contribuindo para gerar resultados e crescer junto à empresa. Minhas áreas de interesse são Dados, Planejamento e MIS.
+Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. Estou em busca de uma oportunidade de trabalho onde possa demonstrar minha capacidade, potencial e competência, contribuindo para gerar resultados e crescer junto à empresa. Minhas áreas de interesse são Dados, Negócios, Planejamento e MIS.
 
 ---
 
