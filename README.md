@@ -22,9 +22,9 @@ Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. 
 
 ## Projetos:
 
-### Projeto Sistema de gerenciamento de alunos (concluído)
+### Projeto Data Explorers (concluído)
 * **Desafio 1:** Apresente uma solução para otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e de dados pessoais
-Hackathon, 1 edição dos Bichinhos da TI, maratona para desensolver uma solução para o desafio escolhido onde atuarei como Tech Lead dentro da equipe. Epatas do projeto: Justificativa da solução (discovery), protótipo da solução, demonstração do funcionamento da solução, solução final completa contendo protótipo, justificativa para a solução e um vídeo de 3 a 5 minutos (pitch).
+Participei de uma maratona de programação onde atuei como líder da equipe e ganhamos o segundo lugar com nosso projeto, que incluiu o desenvolvimento de um discovery, protótipo, demonstração e construção de um pitch.
 * **Competências adquiridas**: Gestão de projetos, Metodologias Ágeis, Desenvolvimento de liderança, Gestão de prazos, Trabalho em equipe
 
 ### Projeto Otimização de Estoque e Redução de Custos (em desenvolvimento)
