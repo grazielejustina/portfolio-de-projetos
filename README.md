@@ -30,6 +30,13 @@ Participei de uma maratona de programação cujo desafio era "Apresentar uma sol
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Data-Explorers)
 * **Competências adquiridas**: Gestão de projetos, Metodologias Ágeis, Desenvolvimento de liderança, Gestão de prazos, Trabalho em equipe
 
+### Sistema de agendamento de acadêmias (em desenvolvimento)
+* **Desafio:** Montar um agendamento de acadêmias com cadastro de horários, notificação e profissionais de apoio.
+
+Contexto: O projeto "Agendamento de Academias" visa desenvolver um sistema integrado para a gestão de horários de academias, permitindo aos usuários cadastrarem-se, reservarem horários para treinos e receberem notificações automáticas sobre suas sessões. O sistema incluirá um módulo para profissionais de apoio, possibilitando que instrutores e personal trainers gerenciem suas agendas e disponibilidades. A plataforma promoverá uma experiência organizada e eficiente tanto para os usuários quanto para os profissionais da academia, melhorando a gestão de recursos e a satisfação dos clientes.
+* **Competências adquiridas**: Metodologias Agile · Modelagem de dados · Banco de dados · SQL · Gestão de projetos
+
+
 ### Projeto Otimização de Estoque e Redução de Custos (em desenvolvimento)
 * **Desafio:** Otimizar o estoque e reduzir os custos de uma rede de supermercados
 
