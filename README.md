@@ -26,8 +26,12 @@ Sou dedicada, esforçada e determinada, com rápida capacidade de aprendizado e 
 * **Desafio:** Este projeto tem como objetivo realizar uma análise básica de dados utilizando Python, explorando um conjunto de dados sugerido para extrair insights simples através de estatísticas descritivas e visualizações gráficas.
 
 Descrição do Projeto: O projeto consiste na análise de um conjunto de dados sobre a venda de cursos. O objetivo é explorar os dados, calcular estatísticas descritivas, gerar visualizações e obter insights. As análises realizadas ajudam a entender o desempenho das vendas dos cursos, identificar tendências e fazer recomendações baseadas nos dados.
+
 Este projeto fornece uma análise abrangente dos dados de vendas de cursos, com o objetivo de oferecer insights valiosos para melhorar as estratégias de vendas e marketing.
+
 Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto CódigoCerto.
+
+* **Projeto**: [**Link**](https://github.com/grazielejustina/trilhacodigocerto)
 * **Competências adquiridas**: Metodologias Agile, Python, Git, Github, Documentação de projetos, Metodologias ageis
 
 
