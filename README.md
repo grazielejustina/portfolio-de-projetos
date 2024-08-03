@@ -5,18 +5,18 @@
 
 # Bem vindos ao meu portfólio de projetos
 
-Sou Analista de dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para suporte à tomada de decisão. Também possuo sólida experiência em vendas no e-commerce, liderança, trabalho em equipe, gestão de projetos e planejamentos.
+Sou uma Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para tomada de decisão. Minha experiência também inclui vendas liderança, trabalho em equipe, gestão de projetos e planejamento.
 
-Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. Estou em busca de uma oportunidade de trabalho onde possa demonstrar minha capacidade, potencial e competência, contribuindo para gerar resultados e crescer junto à empresa. Minhas áreas de interesse são Dados, Negócios, Planejamento e MIS.
+Sou dedicada, esforçada e determinada, com rápida capacidade de aprendizado e em gerar resultados para as empresas. Minhas áreas de interesse são dados, negócios, planejamento e MIS.
 
 ---
 
 ## Soft Skills:
 * **Linguagens de programação:** SQL, Python.
-* **Bancos de dados:** SQL (MySQL, PostgreSQL, SQL Server).
-* **Visualização de dados:** SQL, Power BI.
-* **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps.
-* **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação e DataOps.
+* **Bancos de dados:** SQL (MySQL, PostgreSQL, SQL Server, Big Query).
+* **Visualização de dados:** SQL, Power BI, Python.
+* **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps, Modelagem de dados.
+* **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação, Modelagem de dados, Big Query e DataOps.
 
 ---
 
@@ -82,7 +82,7 @@ Resultados: Proposto como solução do Desafio 4- Assistência Humanitária com 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Ajuda-Pet-RS)
 * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Mapeamento de necessidades
 
-### Projeto de Análise de Marketing (Concluído)
+### Projeto de Análise de Dados: Escola de Tecnologia (Concluído)
 * **Desafio:**  Identificar o perfil, interesses e conhecimento de ferramentas de tecnologia dos líderes específicos em se matricular em uma escola de tecnologia.
   
 Resultados: Esse projeto visa utilizar dados dos leads para entender melhor seu perfil e interesses, ajudando a escola a adaptar suas estratégias e ofertas educacionais de forma mais eficaz.
