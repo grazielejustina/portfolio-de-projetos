@@ -12,7 +12,7 @@ Sou dedicada, esforçada e determinada, com rápida capacidade de aprendizado e 
 ---
 
 ## Soft Skills:
-* **Linguagens de programação:** SQL, Python.
+* **Linguagens de programação e consulta:** SQL, Python.
 * **Bancos de dados:** SQL (MySQL, PostgreSQL, SQL Server, Big Query).
 * **Visualização de dados:** SQL, Power BI, Python.
 * **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps, Modelagem de dados.
