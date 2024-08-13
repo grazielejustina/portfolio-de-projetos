@@ -41,7 +41,7 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 Solução proposta: O projeto visa desenvolver um sistema integrado para a gestão de horários de academias, permitindo aos usuários cadastrarem-se, reservarem horários para treinos e receberem notificações automáticas sobre suas sessões. O sistema incluirá um módulo para profissionais de apoio, possibilitando que instrutores e personal trainers gerenciem suas agendas e disponibilidades. A plataforma promoverá uma experiência organizada e eficiente tanto para os usuários quanto para os profissionais da academia, melhorando a gestão de recursos e a satisfação dos clientes.
 
 * **Projeto**: [**Link**](https://github.com/RDS-Projects)
-* * **Projeto**: [**Link**](https://github.com/grazielejustina/projetoagendamentoacademias))
+* **Projeto**: [**Link**](https://github.com/grazielejustina/projetoagendamentoacademias))
 * **Competências adquiridas**: Metodologias Agile · Modelagem de dados · Banco de dados · SQL · Gestão de projetos
 
 ### Projeto Otimização de Estoque e Redução de Custos (em desenvolvimento)
