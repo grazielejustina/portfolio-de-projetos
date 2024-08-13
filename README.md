@@ -36,12 +36,24 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 
 
 ### Projeto de agendamento de academias com cadastro de horários, notificações e profissionais de apoio (em desenvolvimento)
-* **Desafio:** Montar um agendamento de acadêmias com cadastro de horários, notificação e profissionais de apoio.
+* **Desafio:** Desenvolver um sistema para otimizar o agendamento de aulas e a gestão de profissionais de apoio em academias, incluindo funcionalidades de cadastro de horários e envio de notificações.
 
-Solução proposta: O projeto visa desenvolver um sistema integrado para a gestão de horários de academias, permitindo aos usuários cadastrarem-se, reservarem horários para treinos e receberem notificações automáticas sobre suas sessões. O sistema incluirá um módulo para profissionais de apoio, possibilitando que instrutores e personal trainers gerenciem suas agendas e disponibilidades. A plataforma promoverá uma experiência organizada e eficiente tanto para os usuários quanto para os profissionais da academia, melhorando a gestão de recursos e a satisfação dos clientes.
+## Etapas do Projeto:
+1- Descrição das tabelas e relacionamentos
+2- Resumo dos relacionamentos
+3- Código SQL 
+4- Diagrama entidade relacionamento
+
+## Ferramentas:
+• SQLalchemy para criação e gestão do banco de dados
+• Lucidchart: Software online de diagramas
+
+##Resultados: O projeto oferece uma solução completa para o gerenciamento de agendamentos em academias, com uma estrutura de dados robusta e eficiente. A implementação garante um fluxo organizado de informações e facilita a gestão de horários e comunicação com clientes.
+
+Competências Adquiridas: modelagem de dados, desenvolvimento de SQL, criação de diagramas ERD e gestão de dados e notificações
 
 * **Projeto**: [**Link**](https://github.com/RDS-Projects)
-* **Projeto**: [**Link**](https://github.com/grazielejustina/projetoagendamentoacademias))
+* **Projeto**: [**Link**](https://github.com/grazielejustina/projetoagendamentoacademias)
 * **Competências adquiridas**: Metodologias Agile · Modelagem de dados · Banco de dados · SQL · Gestão de projetos
 
 ### Projeto Otimização de Estoque e Redução de Custos (em desenvolvimento)
