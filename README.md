@@ -18,7 +18,7 @@ Sou dedicada, esforçada e determinada, com rápida capacidade de aprendizado e 
 * **Bancos de dados:** SQL (MySQL, PostgreSQL, SQL Server, Big Query).
 * **Visualização de dados:** SQL, Power BI, Python.
 * **Conhecimentos de metodos:** Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps, Modelagem de dados.
-* **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação, Modelagem de dados, Big Query e DataOps.
+* **Expertise:** Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Product Discovery, Prototipação, Modelagem de dados, Big Query, Cognos Analytics,  Google Looker Studio e DataOps.
 
 ---
 
