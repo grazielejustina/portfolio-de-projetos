@@ -5,7 +5,9 @@
 
 # Bem vindos ao meu portfólio de projetos
 
-Sou uma Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para tomada de decisão. Minha experiência também inclui vendas liderança, trabalho em equipe, gestão de projetos e planejamento.
+Sou uma Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência em planejamentos estratégicos e na análise de resultados e indicadores, bem como na criação de relatórios gerenciais e operacionais para tomadas de decisões. Experiência em liderança de equipe, gestão de projetos e metodologias ágeis (Scrum e Kanban). Conhecimentos em Data Driven e DataOps.
+
+Tenho habilidades em SQL, Power BI, e Python, com foco na análise de dados. Estou sempre em busca de aprender novas tecnologias e métodos para aprimorar minhas habilidades de hardskills e softskills.
 
 Sou dedicada, esforçada e determinada, com rápida capacidade de aprendizado e em gerar resultados para as empresas. Minhas áreas de interesse são dados, negócios, planejamento e MIS.
 
