@@ -9,7 +9,7 @@ Sou uma Analista de Dados Júnior com especialização em Marketing Digital e s�
 
 Possuo conhecimentos em técnicas de Data Driven e DataOps e habilidades em SQL, Power BI e Python, com foco na análise de dados. Sou proativa, dedicada e apaixonada por aprender novas tecnologias e métodos que aprimorem minhas habilidades técnicas e comportamentais.
 
-Tenho interesse em áreas como dados, negócios, business intelligence e planejamento. Minha expertise abrange: Análise de Dados, Data Analytics, Analytics, SQL (SGBD: MySQL, SQL Server, PostgreSQL), Power BI, Google Looker Studio, Cognos Analytics, Figma, Excel, Python (Jupyter Anaconda, Visual Studio Code, PyCharm), Databricks, GitHub, Git, BigQuery, IBM Watson Studio e Google Analytics.
+Tenho interesse em áreas como dados, negócios, business intelligence e planejamento. Minha expertise abrange: Análise de Dados, Data Analytics, Analytics, SQL (SGBD: MySQL, SQL Server, PostgreSQL), Banco de Dados, Modelagem de dados, Power BI, Google Looker Studio, Cognos Analytics, Figma, Excel, Python (Jupyter Anaconda, Visual Studio Code, PyCharm), Databricks, GitHub, Git, Big Query, IBM Watson Studio e Google Analytics.
 
 ---
 
