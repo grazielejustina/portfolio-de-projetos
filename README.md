@@ -25,6 +25,9 @@ Este projeto fornece uma análise abrangente dos dados de vendas de cursos, com 
 Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto CódigoCerto.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/trilhacodigocerto)
+
+<img src="Grafico1.png" >
+
 * **Competências adquiridas**: Metodologias Agile, Python, Git, Github, Documentação de projetos, Metodologias ageis
 
 
@@ -51,6 +54,9 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 
 * **Projeto**: [**Link**](https://github.com/RDS-Projects)
 * **Projeto**: [**Link**](https://github.com/grazielejustina/projetoagendamentoacademias)
+
+<img src="Projetoremotinho.jpg" >
+
 * **Competências adquiridas**: Metodologias Agile · Modelagem de dados · Banco de dados · SQL · Gestão de projetos
 
 ### Projeto Otimização de Estoque e Redução de Custos (em desenvolvimento)
@@ -79,6 +85,9 @@ Demonstração e Pitch: Apresentação e defesa da solução para os avaliados.
 Liderança Técnica: Coordenação de equipe, mentoria, design de arquitetura e solução de problemas.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoSistemagerenciamentoAlunos)
+
+<img src="Bichinhos.jpeg" >
+
 * **Competências adquiridas**: Gestão de projetos, Metodologias Ágeis, Desenvolvimento de liderança, Gestão de prazos, Trabalho em equipe
 
 ### Projeto de Análise de Dados: Tech Trends (Concluído)
@@ -87,6 +96,9 @@ Liderança Técnica: Coordenação de equipe, mentoria, design de arquitetura e 
 Resultados Esperados: Este projeto visa melhorar a eficácia das campanhas e a satisfação dos clientes por meio de uma análise detalhada e recomendação de otimizações baseadas em dados.
 Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 * **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoTechTrends)
+
+<img src="Case Tech Trends.png" >
+
 * **Competências adquiridas**: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
 ### Projeto Ajuda Pet RS (Concluído)
@@ -95,6 +107,9 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 Resultados: Proposto como solução do Desafio 4- Assistência Humanitária com intuito de propor soluções para crise humanitária que está sendo enfrentada pelo Rio Grande do Sul na Maratona Tech pelo RS. Todos os participantes tiveram o prazo de 48 horas para desenvolver e apresentar sua solução.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Ajuda-Pet-RS)
+
+<img src="RS.jpg" >
+
 * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Mapeamento de necessidades
 
 ### Projeto de Análise de Dados: Escola de Tecnologia (Concluído)
@@ -103,6 +118,9 @@ Resultados: Proposto como solução do Desafio 4- Assistência Humanitária com 
 Resultados: Esse projeto visa utilizar dados dos leads para entender melhor seu perfil e interesses, ajudando a escola a adaptar suas estratégias e ofertas educacionais de forma mais eficaz.
 Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 * **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoEscoladeTecnologia)
+
+<img src="Marketing.jpg" >
+
 * **Competências adquiridas**: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
 ### Projeto de Análise de Dados: AutoSolutions (Concluído)
@@ -111,6 +129,9 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 Resultados Esperados: Melhoria na tomada de decisões, aumento da eficiência operacional e incremento nas vendas.
 Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 * **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoAutoSolutions)
+
+<img src="ProjetoAutoSolutions.jpeg" >
+
 * **Competências adquiridas**: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
 ### Projeto de Análise de Dados: BiteSpeed (Concluído)
@@ -118,7 +139,11 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
   
 Resultados Esperados: Melhoria na tomada de decisões, aumento da eficiência operacional e incremento nas vendas.
 Obs: Como se trata de uma empresa real, os dados foram anonimizados.
+
+<img src="Projeto de Análise de Dados BiteSpeed.png" >
+
 * **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoBiteSpeed)
+
 * **Competências adquiridas**: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
   
 ---
