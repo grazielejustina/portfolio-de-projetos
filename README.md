@@ -74,7 +74,7 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Otimiza-o-de-Estoque-e-Redu-o-de-Custos)
   
-<img src="Supermecado.jpg" >
+<img src="Supermercado.jpg" >
 
 * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Metodologia ágeis
 
