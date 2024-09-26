@@ -5,11 +5,11 @@
 
 # Bem vindos ao meu portfólio de projetos
 
-Sou uma Analista de Dados Júnior com especialização em Marketing Digital e sólida experiência em administração. Tenho habilidades em planejamento estratégico, análise de resultados e indicadores, e criação de relatórios gerenciais e operacionais para suporte à tomada de decisões. Atuei em liderança de equipes e gestão de projetos, aplicando metodologias ágeis.
+Sou Analista de Dados Júnior com habilidades em planejamento estratégico, análise de resultados e indicadores, e criação de relatórios gerenciais e operacionais que facilitam a tomada de decisões. Com experiência em liderança de equipes e gestão de projetos, aplico metodologias ágeis para alcançar resultados eficientes. Tenho competências em Data Driven e DataOps, o que me permite transformar dados em insights valiosos para otimizar processos e estratégias empresariais.
 
-Possuo conhecimentos em técnicas de Data Driven e DataOps e habilidades em SQL, Power BI e Python, com foco na análise de dados. Sou proativa, dedicada e apaixonada por aprender novas tecnologias e métodos que aprimorem minhas habilidades técnicas e comportamentais.
+Possuo habilidades em SQL, Power BI, Excel e Python, com foco na análise de dados e desenvolvimento de soluções orientadas para negócios. Tenho interesse em áreas relacionadas a dados, business intelligence e planejamento estratégico, onde posso aplicar meu conhecimento técnico e visão analítica.
 
-Tenho interesse em áreas como dados, negócios, business intelligence e planejamento. Minha expertise abrange: Análise de Dados, Data Analytics, Analytics, SQL (SGBD: MySQL, SQL Server, PostgreSQL), Banco de Dados, Modelagem de dados, Power BI, Google Looker Studio, Cognos Analytics, Figma, Excel, Python (Jupyter Anaconda, Visual Studio Code, PyCharm), Databricks, GitHub, Git, Big Query, IBM Watson Studio e Google Analytics.
+Minha expertise abrange: SQL (MySQL, SQL Server, PostgreSQL), Banco de Dados, Modelagem de dados, Data Driven, DataOps, Storytelling, Product Discovery, Prototipação, Power BI, Google Looker Studio, Cognos Analytics, Figma, Excel, Python (Jupyter Anaconda, Visual Studio Code, PyCharm), Databricks, GitHub, Git, Big Query, Gamification, LGPD, ETL, Metodologias Ágeis, Mapeamento de Dados, OKR e KPI, Homologação, Documentação, IBM Watson Studio, IBM Cloud, IA generativa e Google Analytics.
 
 ---
 
