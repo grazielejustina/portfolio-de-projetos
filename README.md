@@ -59,7 +59,7 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 
 * **Competências adquiridas**: Metodologias Agile · Modelagem de dados · Banco de dados · SQL · Gestão de projetos
 
-### Projeto Otimização de Estoque e Redução de Custos (concluído)
+### Projeto de Negócios: Empresa do ramo de supermercados (concluído)
 * **Desafio:** Otimizar o estoque e reduzir os custos de uma rede de supermercados
 
 Contexto: A empresa enfrenta desafios na gestão de estoque, incluindo excesso de produtos perecíveis que causam desperdícios e falta de produtos que levam à perda de vendas. Este projeto busca utilizar a análise de dados para otimizar o estoque e reduzir os custos operacionais.
