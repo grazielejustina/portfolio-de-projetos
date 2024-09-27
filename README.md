@@ -52,7 +52,6 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 
 **Resultados**: O projeto oferece uma solução completa para o gerenciamento de agendamentos em academias, com uma estrutura de dados robusta e eficiente. A implementação garante um fluxo organizado de informações e facilita a gestão de horários e comunicação com clientes.
 
-* **Projeto**: [**Link**](https://github.com/RDS-Projects)
 * **Projeto**: [**Link**](https://github.com/grazielejustina/projetoagendamentoacademias)
 
 <img src="Projetoremotinho.jpg" >
