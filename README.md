@@ -1,6 +1,6 @@
 <h1 align="center">Graziele Aparecida de Godoy Justina</h1>
 <p align="center">
-  <img src="Data Analytics (2).png" >
+  <img src="Data Analytics (4).png" >
 </p>
 
 # Bem vindos ao meu portfólio de projetos
