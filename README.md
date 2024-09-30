@@ -157,7 +157,7 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
 
 **Projeto**: [**Link**](https://github.com/grazielejustina/Projeto-Ajuda-Pet-RS)
 
-<img src="RS.jpg" >
+<img src="Ajuda pet.jpg" >
 
 **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Mapeamento de necessidades
 
@@ -199,8 +199,6 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
 Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
 
 **Ferramentas utilizadas**: Power BI
-
-![image](https://github.com/user-attachments/assets/c6a68356-b76c-43eb-be46-a43024d34e66)
 
 <img src="Projeto de Análise de Dados BiteSpeed.png" >
 
