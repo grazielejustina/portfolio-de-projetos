@@ -127,6 +127,21 @@ Liderança Técnica: Coordenação de equipe, mentoria, design de arquitetura e 
 
 **Linguagens utilizadas**: Python, SQL, Javascript, CSS, HTML
 
+**Equipe**:
+- Beatriz Cristina Rodrigues dos Santos
+- Danniel de Albuquerque
+- Graziele Aparecida de Godoy Justina
+- João Victor Martins Antunes
+- Juan Lucas Lopes Vieira
+- Juarez Wesley da Silva Monte
+- Lucas Minga Orfei
+- Lucas Torres de Oliveira Dias
+- Willian Ribeiro dos Santos
+
+**Resultados**: O projeto conquistou o segundo lugar, destacando-se pela inovação e eficácia na proposta.
+
+Proprietário do Conteúdo: Bichinhos da TI Bijet Growth LTDA 54.932.849/0001-22
+
 **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoSistemagerenciamentoAlunos)
 
 <img src="Bichinhos.jpeg" >
