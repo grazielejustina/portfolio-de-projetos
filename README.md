@@ -39,8 +39,6 @@ Utilizar KPIs básicos, como taxa de satisfação e engajamento.
 
 **Resultados**: Neste relatório de análise de dados, conclui-se que os voluntários estão satisfeitos e se envolvem ativamente nas atividades de voluntariado. 
 
-Relatório de Análise de Dados para Trilha Final Ciência de Dados Jr com foco em Analista de Dados e Business Intelligence I - Nível Júnior do Código Certo Coders.
-
 **Ferramentas utilizadas**: Visual Code Studio, Power BI, Git, Github.
 
 **Linguagem de programação**: Python
