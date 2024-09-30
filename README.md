@@ -5,7 +5,7 @@
 
 # Bem vindos ao meu portfólio de projetos
 
-as empresas. Possuo experiência em planejamento estratégico, análise de desempenho e de indicadores, e na criação de relatórios gerenciais e operacionais, ajudando as organizações a tomarem decisões estratégicas e orientada por dados, impulsionando resultados para as empresas.
+Sou uma Analista de Dados Júnior apaixonada por análises e por transformar dados em insights valiosos que geram valor para as empresas. Possuo experiência em planejamento estratégico, análise de desempenho e de indicadores, e na criação de relatórios gerenciais e operacionais, ajudando as organizações a tomarem decisões estratégicas e orientada por dados, impulsionando resultados para as empresas.
 
 Tenho experiência em liderar equipes e gerenciar projetos, aplicando metodologias ágeis para garantir soluções assertivas e eficazes. Sou certificada como Analista de Dados pela IBM, e minhas habilidades em Data Driven e DataOps me capacitam a gerar insights que resultam em ações para melhorar o desempenho das empresas.
 
@@ -20,7 +20,7 @@ Minha expertise inclui:
 🛠️ Hard Skills:
 
 - Excel, SQL, Python, Power BI, Google Looker Studio, Cognos Analytics, Figma, Databricks, GitHub, Git, BigQuery, Google Sheets, Google Analytics, ETL, IA Generativa e IBM Cloud.
-
+  
 ---
 
 ## Projetos:
