@@ -138,7 +138,7 @@ Liderança Técnica: Coordenação de equipe, mentoria, design de arquitetura e 
 
 **Ferramentas utilizadas**: Power BI
 
-Obs: Como se trata de uma empresa real, os dados foram anonimizados.
+Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
 
 **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoTechTrends)
 
@@ -168,7 +168,7 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 
 **Ferramentas utilizadas**: Power BI
 
-Obs: Como se trata de uma empresa real, os dados foram anonimizados.
+Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
 
 **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoEscoladeTecnologia)
 
@@ -183,7 +183,7 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 
 **Ferramentas utilizadas**: Power BI
 
-Obs: Como se trata de uma empresa real, os dados foram anonimizados.
+Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
 
 **Projeto**: [**Link**](https://github.com/grazielejustina/ProjetoAutoSolutions)
 
@@ -195,11 +195,12 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 **Desafio:** Desenvolver um dashboard interativo para melhorar as operações e a estratégia de vendas da empresa BiteSpeed.
   
 **Resultados Esperados**: Melhoria na tomada de decisões, aumento da eficiência operacional e incremento nas vendas.
-Obs: Como se trata de uma empresa real, os dados foram anonimizados.
+
+Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonimizados, assegurando que informações sensíveis não possam ser associadas as decisões estratégicas da empresa.
 
 **Ferramentas utilizadas**: Power BI
 
-Obs: Como se trata de uma empresa real, os dados foram anonimizados.
+![image](https://github.com/user-attachments/assets/c6a68356-b76c-43eb-be46-a43024d34e66)
 
 <img src="Projeto de Análise de Dados BiteSpeed.png" >
 
