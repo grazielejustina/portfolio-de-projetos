@@ -120,7 +120,9 @@ Resultados: O projeto conquistou o segundo lugar, destacando-se pela inovação 
 
 **Atividades Desenvolvidas**:
 Discovery e Protótipo: Criação de um modelo inicial e plano para a solução.
+
 Demonstração e Pitch: Apresentação e defesa da solução para os avaliados.
+
 Liderança Técnica: Coordenação de equipe, mentoria, design de arquitetura e solução de problemas.
 
 **Ferramentas utilizadas**: Visual Code Studio, Postgresql
