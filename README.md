@@ -76,9 +76,13 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 **Desafio:** Desenvolver um sistema para otimizar o agendamento de aulas e a gestão de profissionais de apoio em academias, incluindo funcionalidades de cadastro de horários e envio de notificações.
 
 **Etapas do Projeto de criação de um bando de dados**:
+
 1- Descrição das tabelas e relacionamentos
+
 2- Resumo dos relacionamentos
+
 3- Código SQL 
+
 4- Diagrama entidade relacionamento
 
 **Ferramentas**: Lucidchart
