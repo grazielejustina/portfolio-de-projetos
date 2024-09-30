@@ -15,7 +15,7 @@ Minha expertise inclui:
 
 🚀 Soft skills
 
-- Capacidade analítica, Tomada de decisão, Conhecimento de negócio, Gestão de projetos, Comunicação, Resolução de problemas, Trabalho em equipe, Modelagem e Análise de Dados, Mapeamento de Dados, Prototipação, Data Driven, DataOps, Storytelling, Product Discovery, Metodologias Ágeis, OKR e KPI, Homologação, Criação de Dashboards, LGPD e Documentação.
+- Capacidade analítica, Tomada de decisão, Conhecimento de negócio, Gestão de projetos, Comunicação, Resolução de problemas, Trabalho em equipe, Modelagem e Análise de Dados, Mapeamento de Dados, Prototipação, Data Driven, DataOps, Storytelling, Product Discovery, Metodologias Ágeis, OKR e KPI, Homologação, Criação de Dashboards, LGPD, Documentação e inglês nível básico.
 
 🛠️ Hard Skills:
 
