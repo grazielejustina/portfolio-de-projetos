@@ -29,7 +29,9 @@ Utilizar KPIs básicos, como taxa de satisfação e engajamento.
 
 Relatório de Análise de Dados para Trilha Final Ciência de Dados Jr com foco em Analista de Dados e Business Intelligence I - Nível Júnior do Código Certo Coders.
 
-Ferramentas e linguagens utilizadas: Python, Power BI, Git, Github.
+**Ferramentas utilizadas**: Python, Power BI, Git, Github.
+
+**Linguagem de programação**: Python
 
 **Resultados**: Neste relatório de análise de dados, conclui-se que os voluntários estão satisfeitos e se envolvem ativamente nas atividades de voluntariado. 
 
