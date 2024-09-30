@@ -15,6 +15,30 @@ Minha expertise abrange: SQL (MySQL, SQL Server, PostgreSQL), Banco de Dados, Mo
 
 ## Projetos:
 
+### Projeto de Análise de Dados: Satisfação da Comunidade (concluído)
+
+* **Desafio:** O objetivo deste projeto é realizar uma análise detalhada dos dados encontrados em uma pesquisa de satisfação da comunidade nos meses de junho e julho de 2024 da Edtech Código Certo Coders.
+
+* **Desafios e Expectativas**:
+Realizar análise exploratória básica dos dados.
+Criar visualizações simples e relatórios claros.
+Utilizar ferramentas padrão de BI (Excel, Power BI, Tableau) para gerar insights.
+Aplicar técnicas básicas de visualização para identificar tendências.
+Produzir relatórios que apresentem os resultados de forma clara e compreensível.
+Utilizar KPIs básicos, como taxa de satisfação e engajamento.
+
+Relatório de Análise de Dados para Trilha Final Ciência de Dados Jr com foco em Analista de Dados e Business Intelligence I - Nível Júnior do Código Certo Coders.
+
+Ferramentas e linguagens utilizadas: Python, Power BI, Git, Github.
+
+* **Resultados**: Neste relatório de análise de dados, conclui-se que os voluntários estão satisfeitos e se envolvem ativamente nas atividades de voluntariado. 
+
+* **Projeto**: [**Link**](https://github.com/grazielejustina/TrilhaFinalDadosJR/tree/graziele-justina)
+
+<img src="Apresentação Power BI.jpg" >
+
+* **Competências adquiridas**: Python, Git, Github, Power Bi, Gestão de projetos
+
 ### Projeto de Análise de Cursos (concluído)
 * **Desafio:** Este projeto tem como objetivo realizar uma análise básica de dados utilizando Python, explorando um conjunto de dados sugerido para extrair insights simples através de estatísticas descritivas e visualizações gráficas.
 
