@@ -5,11 +5,21 @@
 
 # Bem vindos ao meu portfólio de projetos
 
-Sou Analista de Dados Júnior com habilidades em planejamento estratégico, análise de resultados e indicadores, e criação de relatórios gerenciais e operacionais que facilitam a tomada de decisões. Com experiência em liderança de equipes e gestão de projetos, aplico metodologias ágeis para alcançar resultados eficientes. Tenho competências em Data Driven e DataOps, o que me permite transformar dados em insights valiosos para otimizar processos e estratégias empresariais.
+as empresas. Possuo experiência em planejamento estratégico, análise de desempenho e de indicadores, e na criação de relatórios gerenciais e operacionais, ajudando as organizações a tomarem decisões estratégicas e orientada por dados, impulsionando resultados para as empresas.
 
-Possuo habilidades em SQL, Power BI, Excel e Python, com foco na análise de dados e desenvolvimento de soluções orientadas para negócios. Tenho interesse em áreas relacionadas a dados, business intelligence e planejamento estratégico, onde posso aplicar meu conhecimento técnico e visão analítica.
+Tenho experiência em liderar equipes e gerenciar projetos, aplicando metodologias ágeis para garantir soluções assertivas e eficazes. Sou certificada como Analista de Dados pela IBM, e minhas habilidades em Data Driven e DataOps me capacitam a gerar insights que resultam em ações para melhorar o desempenho das empresas.
 
-Minha expertise abrange: SQL (MySQL, SQL Server, PostgreSQL), Banco de Dados, Modelagem de dados, Data Driven, DataOps, Storytelling, Product Discovery, Prototipação, Power BI, Google Looker Studio, Cognos Analytics, Figma, Excel, Python (Jupyter Anaconda, Visual Studio Code, PyCharm), Databricks, GitHub, Git, Big Query, Gamification, LGPD, ETL, Metodologias Ágeis, Mapeamento de Dados, OKR e KPI, Homologação, Documentação, IBM Watson Studio, IBM Cloud, IA generativa e Google Analytics.
+Possuo habilidades em SQL, Power BI, Excel e Python, com foco em desenvolver soluções de análise de dados voltadas para negócios, sempre com o objetivo de gerar valor as empresas. Tenho interesse em áreas como dados, business intelligence, negócios, e planejamento estratégico, onde aplico minha visão analítica e técnicas para resolver problemas empresariais.
+
+Minha expertise inclui:
+
+🚀 Soft skills
+
+- Capacidade analítica, Tomada de decisão, Conhecimento de negócio, Gestão de projetos, Comunicação, Resolução de problemas, Trabalho em equipe, Modelagem e Análise de Dados, Mapeamento de Dados, Prototipação, Data Driven, DataOps, Storytelling, Product Discovery, Metodologias Ágeis, OKR e KPI, Homologação, Criação de Dashboards, LGPD e Documentação.
+
+🛠️ Hard Skills:
+
+- Excel, SQL, Python, Power BI, Google Looker Studio, Cognos Analytics, Figma, Databricks, GitHub, Git, BigQuery, Google Sheets, Google Analytics, ETL, IA Generativa e IBM Cloud.
 
 ---
 
@@ -89,7 +99,7 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 * **Competências adquiridas**: Metodologias Agile · Modelagem de dados · Banco de dados · SQL · Gestão de projetos
 
 ### Projeto de Negócios: Empresa do ramo de supermercados (concluído)
-* **Desafio:** Otimizar o estoque e reduzir os custos de uma rede de supermercados
+**Desafio:** Otimizar o estoque e reduzir os custos de uma rede de supermercados
 
 Contexto: A empresa enfrenta desafios na gestão de estoque, incluindo excesso de produtos perecíveis que causam desperdícios e falta de produtos que levam à perda de vendas. Este projeto busca utilizar a análise de dados para otimizar o estoque e reduzir os custos operacionais.
 
@@ -124,7 +134,7 @@ Liderança Técnica: Coordenação de equipe, mentoria, design de arquitetura e 
 
 * **Competências adquiridas**: Gestão de projetos, Metodologias Ágeis, Desenvolvimento de liderança, Gestão de prazos, Trabalho em equipe
 
-### Projeto de Análise de Dados: Tech Trends (Concluído)
+### Projeto de Análise de Dados: Empresa do ramo de marketing (Concluído)
 * **Desafio:**   identificar oportunidades para aumentar a eficiência das campanhas de marketing e melhorar a experiência de compra dos clientes.
   
 Resultados Esperados: Este projeto visa melhorar a eficácia das campanhas e a satisfação dos clientes por meio de uma análise detalhada e recomendação de otimizações baseadas em dados.
@@ -135,7 +145,7 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 
 * **Competências adquiridas**: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
-### Projeto Ajuda Pet RS (Concluído)
+### Projeto de Negócios: Ajuda Pet RS (Concluído)
 * **Desafio:** Ajuda humanitária para o Rio Grande do Sul
   
 Resultados: Proposto como solução do Desafio 4- Assistência Humanitária com intuito de propor soluções para crise humanitária que está sendo enfrentada pelo Rio Grande do Sul na Maratona Tech pelo RS. Todos os participantes tiveram o prazo de 48 horas para desenvolver e apresentar sua solução.
@@ -146,7 +156,7 @@ Resultados: Proposto como solução do Desafio 4- Assistência Humanitária com 
 
 * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Mapeamento de necessidades
 
-### Projeto de Análise de Dados: Escola de Tecnologia (Concluído)
+### Projeto de Análise de Dados: Empresa do ramo da educação (Concluído)
 * **Desafio:**  Identificar o perfil, interesses e conhecimento de ferramentas de tecnologia dos líderes específicos em se matricular em uma escola de tecnologia.
   
 Resultados: Esse projeto visa utilizar dados dos leads para entender melhor seu perfil e interesses, ajudando a escola a adaptar suas estratégias e ofertas educacionais de forma mais eficaz.
@@ -157,7 +167,7 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 
 * **Competências adquiridas**: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
-### Projeto de Análise de Dados: AutoSolutions (Concluído)
+### Projeto de Análise de Dados: Empresa do ramo automobilístico (Concluído)
 * **Desafio:** Desenvolver um dashboard interativo para fornecer um relatório geral de desempenho de vendas da AutoSolutions.
   
 Resultados Esperados: Melhoria na tomada de decisões, aumento da eficiência operacional e incremento nas vendas.
@@ -168,7 +178,7 @@ Obs: Como se trata de uma empresa real, os dados foram anonimizados.
 
 * **Competências adquiridas**: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
 
-### Projeto de Análise de Dados: BiteSpeed (Concluído)
+### Projeto de Análise de Dados: Empresa do ramo de fast food (Concluído)
 * **Desafio:** Desenvolver um dashboard interativo para melhorar as operações e a estratégia de vendas da BiteSpeed.
   
 Resultados Esperados: Melhoria na tomada de decisões, aumento da eficiência operacional e incremento nas vendas.
