@@ -41,14 +41,18 @@ Relatório de Análise de Dados para Trilha Final Ciência de Dados Jr com foco 
 
 * **Competências adquiridas**: Python, Git, Github, Power Bi, Gestão de projetos
 
-### Projeto de Análise de Cursos (concluído)
+### Projeto de Análise de Dados: Cursos (concluído)
 * **Desafio:** Este projeto tem como objetivo realizar uma análise básica de dados utilizando Python, explorando um conjunto de dados sugerido para extrair insights simples através de estatísticas descritivas e visualizações gráficas.
 
 Descrição do Projeto: O projeto consiste na análise de um conjunto de dados sobre a venda de cursos. O objetivo é explorar os dados, calcular estatísticas descritivas, gerar visualizações e obter insights. As análises realizadas ajudam a entender o desempenho das vendas dos cursos, identificar tendências e fazer recomendações baseadas nos dados.
 
-Este projeto fornece uma análise abrangente dos dados de vendas de cursos, com o objetivo de oferecer insights valiosos para melhorar as estratégias de vendas e marketing.
+Ferramentas utilizadas: Visual Code Studio, Git, Github.
 
-Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto CódigoCerto.
+Linguagem de programação: Python
+
+**Resultados**: Este projeto fornece uma análise abrangente dos dados de vendas de cursos, com o objetivo de oferecer insights valiosos para melhorar as estratégias de vendas e marketing.
+
+Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto Código Certo Coders.
 
 * **Projeto**: [**Link**](https://github.com/grazielejustina/trilhacodigocerto)
 
@@ -57,7 +61,7 @@ Projeto apresentado como Trilha Inicial de Analista de Dados Júnior no Projeto 
 * **Competências adquiridas**: Metodologias Agile, Python, Git, Github, Documentação de projetos, Metodologias ageis
 
 
-### Projeto de agendamento de academias com cadastro de horários, notificações e profissionais de apoio (concluído)
+### Projeto de Negócios: Agendamento de academias com cadastro de horários, notificações e profissionais de apoio (concluído)
 * **Desafio:** Desenvolver um sistema para otimizar o agendamento de aulas e a gestão de profissionais de apoio em academias, incluindo funcionalidades de cadastro de horários e envio de notificações.
 
 **Etapas do Projeto**:
@@ -103,7 +107,7 @@ Para garantir a conformidade com a LGPD, todos os dados da empresa serão anonim
 
 * **Competências adquiridas**: Análise de dados, Power BI, Prototipação, Gestão de prazos, Metodologia ágeis
 
-### Projeto de Sistema de Gerenciamento de Alunos: EdTech Bichinhos da TI (concluído)
+### Projeto de Negócios: Data Explorers (concluído)
 * **Desafio 1:** Apresente uma solução para otimizar o gerenciamento dos alunos e aumentar a segurança na gestão da informação e de dados pessoais
   
 Solução apresentada: A solução apresentada pela equipe é um site onde alunos e mentores podem acessar seu cadastro, projetos, certificados e histórico de voluntariado. O site da web será integrado a um ambiente de banco de dados em nuvem.
