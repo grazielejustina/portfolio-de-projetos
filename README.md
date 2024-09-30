@@ -27,7 +27,7 @@ Minha expertise inclui:
 
 ### Projeto de Análise de Dados: Satisfação da Comunidade (concluído)
 
-**Objetivo:**: Realizar uma análise detalhada dos dados encontrados em uma pesquisa de satisfação da comunidade nos meses de junho e julho de 2024 da Edtech Código Certo Coders.
+**Objetivo**: Realizar uma análise detalhada dos dados encontrados em uma pesquisa de satisfação da comunidade nos meses de junho e julho de 2024 da Edtech Código Certo Coders.
 
 **Desafios e Expectativas**:
 Realizar análise exploratória básica dos dados.
